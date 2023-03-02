@@ -11,3 +11,4 @@
 - syntactic representations?
 - n-grams?
 - punctuation?
+- (not use counts of topical words)
