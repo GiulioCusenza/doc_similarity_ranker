@@ -9,6 +9,8 @@ Rank documents based on their cosine similarity on vectors of word counts.
 2. Remove all punctuation from them (the program does not do it itself yet).
 3. Store them in `./docs`.
 
+(You can use the provided ones for testing)
+
 **Run:**
 ```
 > python doc_similarity_ranker.py 1984_ch1.txt
