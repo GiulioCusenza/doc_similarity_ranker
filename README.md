@@ -7,9 +7,7 @@ Rank documents based on their cosine similarity on vectors of word counts.
 **Set up:**
 1. Pick some documents to rank.
 2. Remove all punctuation from them (the program does not do it itself yet).
-3. Store them in `./docs`.
-
-(You can use the provided ones for testing)
+3. Store them in `./docs` (some are already provided).
 
 **Run:**
 ```
