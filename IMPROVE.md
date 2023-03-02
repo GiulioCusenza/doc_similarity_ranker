@@ -11,6 +11,3 @@
 - syntactic representations?
 - n-grams?
 - punctuation?
-
-## Issues:
-- normalize counts by size of documents
